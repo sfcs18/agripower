@@ -1,4 +1,0 @@
-PROCESSED on Thu, 21 Feb 2019 00:19:19 +0000
-/wp-content/plugins/events-manager/includes/css/events_manager.css --- Debug: [events-manager] File was opened from /home/www_agri/public_html/wp-content/plugins/events-manager/includes/css/events_manager.css ---
-/wp-content/themes/twentyseventeen/style.css --- Debug: [twentyseventeen-style] File was opened from /home/www_agri/public_html/wp-content/themes/twentyseventeen/style.css ---
-PROCESSED from https://agripower.sfc-s.net/
