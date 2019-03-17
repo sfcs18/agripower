@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AGRIPOWER - イベント</title>
+		<link>/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/</link>
+		<description>農業の力でSFC生と地域を元気に - イベント</description>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<pubDate>Wed, 09 May 2018 06:18:26 +0000</pubDate>
+		<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
+				
+	</channel>
+</rss>
